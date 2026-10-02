@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NDCYCLE</string>
+    <string name="accessibility_service_name">NDCycleService</string>
+    <string name="accessibility_service_description">NDCycleService</string>
+    <string name="notification_channel_name">NDCYCLE Фоновый Движок</string>
+    <string name="notification_channel_description">Управление фоновым циклом подмены текстур и состоянием движка</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "NDCYCLE",
+  "description": "PSP Track Texture Cycle & Hot-Reload Automation Engine (NDCYCLE + AssemblyService)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
